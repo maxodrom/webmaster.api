@@ -98,4 +98,4 @@ Methods:
 - getUserID, 
 - initApi, 
 - post, 
--verifyHost
+- verifyHost
