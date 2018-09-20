@@ -10,7 +10,7 @@
 ### Composer
 
 add into composer.json
-```json
+```js
 {
     "require": {
         ...
@@ -28,7 +28,7 @@ php composer.phar require yandex/webmaster.api "dev-master"
 
 
 Also required prior to placing the package on packagist.org
-```json
+```js
     ...
     "repositories": [
         {
