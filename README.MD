@@ -95,6 +95,7 @@ Methods:
 - getOriginalTexts, 
 - getPopularQueries, 
 - getTicHistory,
+- getSqiHistory,
 - getUserID, 
 - initApi, 
 - post, 
